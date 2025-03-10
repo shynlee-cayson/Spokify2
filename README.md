@@ -91,6 +91,10 @@
 ![image](https://github.com/user-attachments/assets/2ab645c5-eca1-4b85-8560-42672057a502)
 <br>
 ALL THE INFO INPUT BY THE USER ARE STORE IN THERE **(Refresh if not Working).**
-
+<br>
+<br>
+<br>
+<br>
+13. Now go to <code>http://localhost/spokify/</code> or simply click this link <a href="http://localhost/spokify/">
 
 --------------**END**-----------------

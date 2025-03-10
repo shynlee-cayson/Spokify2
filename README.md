@@ -95,6 +95,6 @@ ALL THE INFO INPUT BY THE USER ARE STORE IN THERE **(Refresh if not Working).**
 <br>
 <br>
 <br>
-13. Now go to <code>http://localhost/spokify/</code> or simply click this link <a href="http://localhost/spokify/">
+13. Now go to <code>http://localhost/spokify/</code> or simply click this link and explore!.<a href="http://localhost/spokify/">
 
 --------------**END**-----------------

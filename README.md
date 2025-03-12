@@ -3,38 +3,14 @@
 <br>
 <br>
 
-**1. Follow the step by step image below.**<br>
+**1. Download the file**
 <br>
-<br>
-**1.1 Click the file<br>
-1.2 Click 3 Dots<br>
-1.3 Click Download<br>**
+![image](https://github.com/user-attachments/assets/1a6c04d2-264a-433c-b34f-c7f86899b4f9)
 <br>
 <br>
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/5d642cef-010e-437c-b37b-fcc0d4713a38)
-<br>
-<br>
-<br>
-<br>
-![image](https://github.com/user-attachments/assets/517eba8f-af9e-4023-b108-5092a0505fc0)
-<br>
-<br>
-<br>
-<br>
-**2. Once the download is complete, navigate to your Downloads folder or the location where your file was saved.**
-<br>
-2.1 Right click
-<br>
-2.2 Click Extract File
-<br>
-<br>
-<br>
-![image](https://github.com/user-attachments/assets/9b44f8ad-2c8a-4045-aa8d-e1fc5c2f9bc8)
-
-<br>
-<br>
+**2. Right click and Extract the file**
 <br>
 ![image](https://github.com/user-attachments/assets/2b4dc06b-ab7e-446b-95a0-e7bcac2e858c)
 <br>

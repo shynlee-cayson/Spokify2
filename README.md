@@ -71,14 +71,16 @@
 11. Now after creating the Database click your created Database **"spokify"** and go to **SQL** section and paste this code and **GO**
 <br>
 <br>
-<code>CREATE TABLE users (
+```
+CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     phone_number VARCHAR(15) NOT NULL,
     email VARCHAR(100) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL
-);</code>
+);
+```
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/500f1ba0-52bc-4dae-9a88-7bff166d7080)

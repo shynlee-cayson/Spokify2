@@ -83,20 +83,28 @@ CREATE TABLE users (
 ```
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/500f1ba0-52bc-4dae-9a88-7bff166d7080)
+
+
+![Project Screenshot](https://raw.githubusercontent.com/shynlee-cayson/Spokify2/main/readme-img/1.png)
+
+<br>
 <br>
 <br>
 <br>
 <br>
 12. After that** REFRESH THE PAGE** and go to **BROWSE** 
 <br>
-![image](https://github.com/user-attachments/assets/2ab645c5-eca1-4b85-8560-42672057a502)
 <br>
-ALL THE INFO INPUT BY THE USER ARE STORE IN THERE **(Refresh if not Working).**
+
+![Screenshot](https://raw.githubusercontent.com/shynlee-cayson/Spokify2/main/readme-img/2.png)
+
+<br>
+ALL THE INFORMATION ENTERED BY THE USER IS SECURELY STORED IN THE DATABASE. (Refresh if not Working).
 <br>
 <br>
 <br>
 <br>
 13. Now go to <code>http://localhost/spokify/</code> or simply click this link and explore!.<a href="http://localhost/spokify/">
+
 
 --------------**END**-----------------
